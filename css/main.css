@@ -19,6 +19,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+logo {
+    margin: auto;
+    width: 60%;
+}
 a {
     text-decoration: none;
     color: #ec1e2b;
